@@ -1,0 +1,31 @@
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.exe.config
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.exe
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.pdb
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.csprojResolveAssemblyReference.cache
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form1.resources
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Properties.Resources.resources
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.csproj.GenerateResource.Cache
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.exe
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.pdb
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form2.resources
+C:\Arni\C\neyðarsimi\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form3.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.exe.config
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.exe
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.pdb
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form1.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form2.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form3.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Properties.Resources.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.csproj.GenerateResource.Cache
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.exe
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.pdb
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\x86\sqlite3.dll
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\x64\sqlite3.dll
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\System.Data.SQLite.dll
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\System.Data.SQLite.xml
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\System.Data.SQLite.dll.config
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form4.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form5.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Debug\neyðarsimi.Form6.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.exe.CodeAnalysisLog.xml
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Debug\neyðarsimi.exe.lastcodeanalysissucceeded

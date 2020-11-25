@@ -1,0 +1,15 @@
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\x86\sqlite3.dll
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\x64\sqlite3.dll
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\neyðarsimi.exe.config
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\neyðarsimi.exe
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\neyðarsimi.pdb
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\System.Data.SQLite.dll
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\System.Data.SQLite.xml
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\bin\Release\System.Data.SQLite.dll.config
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Release\neyðarsimi.Form1.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Release\neyðarsimi.Form2.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Release\neyðarsimi.Form3.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Release\neyðarsimi.Properties.Resources.resources
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Release\neyðarsimi.csproj.GenerateResource.Cache
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Release\neyðarsimi.exe
+C:\Arni\neyðarsimi 1.5\neyðarsimi\neyðarsimi\obj\Release\neyðarsimi.pdb
